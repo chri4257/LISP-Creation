@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include "mpc.h"
 
+/* This follows the tutorial at https://buildyourownlisp.com/ */
+
 /* This is a polish notation arithmetic, where the operator is at the start, before the numbers */
 
 /* Interactive prompt that repeatedly writes a message and then waits for input */
